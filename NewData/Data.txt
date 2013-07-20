@@ -3,11 +3,9 @@
 
 %HOST,irc.freenode.net
 %PORT,6667
-%NICK,[CCB]Prime
-%IDENT,Prime,bot
-%REALNAME,PrimeBot
-%OWNER,ichaleynbin
-%PASS,newbotpass5
-%RespondTo, * P [CCB] [CCB]P Prime [CCB]Prime
-#chaoscorebots
-@ichaleynbin 99
+%NICK,
+%IDENT,
+%REALNAME,
+%OWNER,
+%PASS,
+%RespondTo, 
