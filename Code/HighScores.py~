@@ -1,3 +1,0 @@
-import urllib2
-
-urllib2.open("http://uni120.ogame.org/api/players.xml")
