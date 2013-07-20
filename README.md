@@ -1,0 +1,4 @@
+MasterBot
+=========
+
+Python IRC bot
